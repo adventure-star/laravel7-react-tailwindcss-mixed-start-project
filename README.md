@@ -1,6 +1,5 @@
-# Laravel-React-Tailwind SPA Boilerplate
+# Laravel-React-Tailwind Start Project
 
-Starter Boilerplate SPA made with Laravel and React.
 
 ## Features
 
